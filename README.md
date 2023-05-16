@@ -33,8 +33,8 @@ Esta é uma solução para o [Desafio do componente de resumo da ordem de estat�
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [QR Code Component | Frontend Mentor](https://www.frontendmentor.io/solutions/statspreviewcardcomponent-tailwind-css-7NlN8eSzy5)
-- Live Site URL: [QR Code Component Component](https://fabriciomaxwell.github.io/qr-code-component/)
+- Solution URL: [Start Preview Component | Frontend Mentor](https://www.frontendmentor.io/solutions/statspreviewcardcomponent-tailwind-css-7NlN8eSzy5)
+- Live Site URL: [Start Preview Component Component](https://fabriciomaxwell.github.io/stats-preview-card-component-main/)
 
 <br>
 
