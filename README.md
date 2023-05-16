@@ -29,11 +29,11 @@
 
 </div>
 
-Esta é uma solução para o [Desafio do componente de resumo da ordem de estatísticas no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o [Desafio do componente de resumo da ordem de estatísticas no Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [QR Code Component | Frontend Mentor](https://www.frontendmentor.io/solutions/qrcodecomponente-5cBcpdQA9D)
+- Solution URL: [QR Code Component | Frontend Mentor](https://www.frontendmentor.io/solutions/statspreviewcardcomponent-tailwind-css-7NlN8eSzy5)
 - Live Site URL: [QR Code Component Component](https://fabriciomaxwell.github.io/qr-code-component/)
 
 <br>
