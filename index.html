@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+    <!-- Fonts google   -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="./dist/output.css">
+    <title>Frontend Mentor | Stats preview card component</title>
+
+</head>
+<body class="min-h-screen flex justify-center items-center text-[15px] bg-main-background font-Inter">
+    <main> 
+        <article class="mx-6 my-14 bg-card-background text-white rounded-2xl overflow-hidden min-[660px]:w-[660px] lg:w-[55rem] lg:grid lg:grid-cols-2 lg:min-w-[768px]">
+
+            <div class="bg-soft-violet h-full w-full sm:order-1">
+                <picture>
+                    <source media="(min-width: 1024px)" srcset="./assets/image-header-desktop.jpg">
+                    <img src="./assets/image-header-mobile.jpg" alt="Header" class="mix-blend-multiply object-cover h-full w-full">
+                </picture>
+            </div>
+
+            <section class="my-8 mx-6 text-center space-y-5 sm:mr-14">   
+                <h1 class="text-3xl font-semibold lg:text-left lg:ml-7">Get <span class="text-soft-violet">insights</span> that help your business grow.</h1>
+
+                <p class="text-base text-main-paragraph lg:text-sm lg:text-left lg:ml-7">
+                    Discover the benefits of data analytics and make better decisions regarding revenue, customer 
+                    experience, and overall efficiency.
+                </p>
+               
+                <div class="space-y-5 sm:flex sm:items-center lg:justify-around lg:pt-16 sm:justify-around sm:pt-16 sm:gap-4 sm:space-y-0">
+                    <p class="font-Lexend-Deca text-2xl font-medium">10k+ <span class="block uppercase text-stat-headings text-xs">companies</span></p>
+                    <p class="font-Lexend-Deca text-2xl font-medium">314 <span class="block text-xs uppercase text-stat-headings">templates</span></p>
+                    <p class="font-Lexend-Deca text-2xl font-medium">12m+ <span class="block text-xs uppercase text-stat-headings">queries</span></p>  
+                </div>
+            </section>
+        </article>
+    </main>
+
+    <footer class="bottom-0 fixed text-white text-xs">
+        <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" class="text-soft-violet">Frontend Mentor</a>. 
+        Coded by <a href="#" class="text-soft-violet">Fabrício.M</a></p>
+    </footer>
+</body>
+</html>
